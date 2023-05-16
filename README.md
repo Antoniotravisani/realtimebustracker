@@ -1,5 +1,5 @@
 # REALTIME BUS TRACKER
-<img src="blue.png">
+<img src="blue.png"><img src="red.png">
 
 ## [DESCRIPTION]
 
